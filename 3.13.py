@@ -6,3 +6,4 @@ vogais = "aeiou"
 for char in vogais:
     tudo = tudo.replace(char, " ")
 print(tudo)
+#awdaw
