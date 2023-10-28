@@ -1,0 +1,15 @@
+abc = valido 
+5peso = nao_valido porque comeca com um numero
+_valor = valido
+Ernesto Costa = nao_valido porque tem um espaco no meio em vez de _
+ABC = valido
+with = nao_valido porque e uma keyword
+peso$ = nao_valido porque tem $
+minha_altura = valido
+class = nao_valido porque e uma keyword
+nome_ALUNO = valido
+a(b) = nao_valido porque tem ()
+___1 = valido
+__x__ = valido
+import_form = nao_valido
+area-react = nao_valido porque tem -
