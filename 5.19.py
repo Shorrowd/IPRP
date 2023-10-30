@@ -114,5 +114,4 @@ elif t.ycor() >= dimensao/2:
             t.fd(conta)
     print("Passou da Grelha. ")
 
-t.end_fill()
 t.exitonclick()
