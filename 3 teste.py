@@ -1,7 +1,6 @@
 import turtle as t
 import math
 
-
 def quadrado():
     for i in range(4):
         t.forward(200)

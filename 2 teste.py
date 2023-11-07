@@ -16,6 +16,6 @@ def separa_chars(cadeia):
     
     resultado = (cadeia_vogais) , (cadeia_resto)
 
-    print("Resultado", resultado)
+    print("Resultado: ", resultado)
 
 separa_chars(cadeia)
