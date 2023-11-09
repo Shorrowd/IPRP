@@ -1,0 +1,1 @@
+"autor = {"php":"Rasmus Lerdorf","perl":"Larry Wall","tcl":"John Ousterhout","awk":"Brian Kerninghan","java":"James Gosling","parrot":"Simon Cozens","python":"GuidovanRossum","xpto":"zxcv"}
