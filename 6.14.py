@@ -15,4 +15,7 @@ def metabolismo(pacientes):
         else:
             pacientes[paciente]["basal"] = 65.5 + (4.3*pacientes[paciente] ["peso"]) (4.7*pacientes[paciente]["altura"])-(4.7*pacientes[paciente]["idade"])
         
-metabolismo(pacientes)
+
+    return metabolismo(pacientes)
+
+print(metabolismo(pacientes))
