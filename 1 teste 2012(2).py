@@ -6,4 +6,3 @@ remove = int(len(text) * (p/100))
 palavra = text[:remove]
 
 print(palavra)
-
