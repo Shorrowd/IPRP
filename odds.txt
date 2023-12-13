@@ -1,0 +1,3 @@
+1, Portugal =2, Empate =4.0, Uruguai =3
+2, Espanha =1.5, Empate =3.0, Marrocos =8
+3, Brasil =1.2, Empate =4.0, Coreia do Sul =12
