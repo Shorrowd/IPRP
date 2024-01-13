@@ -1,7 +1,7 @@
 I = [9,10,11,12,13,14,15,16,17,18,19]
 numero = len(I)
 resultado = I[::-1]
-exceto = I[0:9]
+exceto = I[1:10]
 soma = 0 
 soma2 = 0
 print("Numero de idades: ", numero)
